@@ -1,4 +1,4 @@
-# datatie2025
+# datatie2026
 
-Public materials for Datatiede tietojohtamisessa 2025
+Public materials for Datatiede tietojohtamisessa 2026
 
